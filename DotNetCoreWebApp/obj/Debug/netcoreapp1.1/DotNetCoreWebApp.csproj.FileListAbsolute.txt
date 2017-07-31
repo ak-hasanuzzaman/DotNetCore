@@ -1,0 +1,9 @@
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.deps.json
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.runtimeconfig.json
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.runtimeconfig.dev.json
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.dll
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.pdb
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.csprojResolveAssemblyReference.cache
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.AssemblyInfo.cs
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.dll
+c:\users\ak.hasanuzzaman\documents\visual studio 2017\Projects\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.pdb
